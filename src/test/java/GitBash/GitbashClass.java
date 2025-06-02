@@ -11,4 +11,10 @@ public class GitbashClass {
 		System.out.println("Akhila");
 		System.out.println("abcdefg");
 	}
+	public void git1()
+	{
+		System.out.println("Welcome");
+		System.out.println("Akhi");
+		System.out.println("abcd");
+	}
 }
