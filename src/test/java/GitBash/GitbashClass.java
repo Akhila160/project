@@ -8,10 +8,17 @@ public class GitbashClass {
 	public void git()
 	{
 		System.out.println("Welcome to git");
-<<<<<<< HEAD
 		
-=======
+
 		System.out.println("Akhila");
->>>>>>> 7cf1b8735f4122fa3bad433b3ac163c0971be961
+
+		System.out.println("abcdefg");
+	}
+	public void git1()
+	{
+		System.out.println("Welcome");
+		System.out.println("Akhi");
+		System.out.println("abcd");
+
 	}
 }
