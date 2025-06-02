@@ -14,6 +14,7 @@ public class GitbashClass {
 
 		System.out.println("abcdefg");
 	}
+	@Test
 	public void git1()
 	{
 		System.out.println("Welcome");
