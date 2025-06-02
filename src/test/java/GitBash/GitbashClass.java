@@ -8,6 +8,10 @@ public class GitbashClass {
 	public void git()
 	{
 		System.out.println("Welcome to git");
+<<<<<<< HEAD
 		
+=======
+		System.out.println("Akhila");
+>>>>>>> 7cf1b8735f4122fa3bad433b3ac163c0971be961
 	}
 }
